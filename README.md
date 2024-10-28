@@ -1,6 +1,6 @@
 # Blinkit Sales Dashboard
 
-![Blinkit Sales Dashboard](https://github.com/chaitanyasingh7/Blinkit-Analysis/blob/main/dashboard.png)
+![Blinkit Sales Dashboard](./dashboard.png)
 
 ## Project Overview
 
